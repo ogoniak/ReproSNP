@@ -5,7 +5,7 @@ liftover_function = function(coordinates, liftover){
   liftover_coordinates = coordinates
 
   try({
-    chain = import.chain(paste0("/home/ReproSNP/DATA/LIFTOVER/",liftover,".over.chain"))
+    chain = import.chain(paste0("/path/to/liftover/",liftover,".over.chain"))
   
     coordinates_split = unlist(strsplit(coordinates,split=":|-"))
     chrom = paste0("chr",coordinates_split[1])
