@@ -2,8 +2,26 @@
 
 Description
 
+## Requirements
+
+- R version 4.2.1
+- bgenix
+- PLINK2
+
 
 ## References
+
+Band, G et al. (2018). “BGEN: a binary file format for imputed genotype and haplotype data”. BioRxiv
+
+Chang, C. et al. (2015). “Second-generation PLINK: rising to the challenge of larger and richer datasets”. Gigascience 4.1
+
+Durinck, S. et al. (2009). “Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt”. In: Nature protocols 4.8
+
+Krausz, C. et al. (2018). “Genetics of male infertility”. Nature Reviews Urology 15.6
+
+R Core Team (2022). "R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing." URL: https://www.R-project.org/. R version 4.2.1
+
+Sudlow, C. et al. (2015). “UK biobank: an open access resource for identifying the causes of a wide range of complex diseases of middle and old age”. PLoS medicine 12.3
 
 ### R packages
 
@@ -22,8 +40,6 @@ Chang W, Borges Ribeiro B (2021). _shinydashboard: Create Dashboards with 'Shiny
 Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Xie Y, Allen J, McPherson J, Dipert A, Borges B (2022). _shiny: Web Application Framework for R_. R package version 1.7.4, <https://shiny.rstudio.com/>.
 
 Dowle M, Srinivasan A (2023). _data.table: Extension of data.frame_. https://r-datatable.com, https://Rdatatable.gitlab.io/data.table, https://github.com/Rdatatable/data.table.
-
-Durinck S, Spellman P, Birney E, Huber W (2009). Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt. Nature Protocols 4.
 
 Iannone R, Cheng J (2022). _shinyvalidate: Input Validation for Shiny Apps_. https://rstudio.github.io/shinyvalidate/, https://github.com/rstudio/shinyvalidate.
 
