@@ -23,9 +23,9 @@ Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Xie Y, Allen J, McPherson J
 
 Dowle M, Srinivasan A (2023). _data.table: Extension of data.frame_. https://r-datatable.com, https://Rdatatable.gitlab.io/data.table, https://github.com/Rdatatable/data.table.
 
-Iannone R, Cheng J (2022). _shinyvalidate: Input Validation for Shiny Apps_. https://rstudio.github.io/shinyvalidate/, https://github.com/rstudio/shinyvalidate.
+Durinck S, Spellman P, Birney E, Huber W (2009). Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt. Nature Protocols 4.
 
-Steffen Durinck, Paul T. Spellman, Ewan Birney and Wolfgang Huber, Nature Protocols 4, 1184-1191 (2009). Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt. 
+Iannone R, Cheng J (2022). _shinyvalidate: Input Validation for Shiny Apps_. https://rstudio.github.io/shinyvalidate/, https://github.com/rstudio/shinyvalidate.
 
 Merlino A, Howard P (2021). _shinyFeedback: Display User Feedback in Shiny Apps_. R package version 0.4.0, <https://github.com/merlinoa/shinyFeedback>.
 
