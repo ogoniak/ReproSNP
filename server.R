@@ -68,7 +68,7 @@ server <- function(input, output, session) {
     R$end <- as.numeric(unlist(str_split(string = R$coordinates, pattern = "-"))[2])
     
     ### delete temporary files
-    commandline("rm /home/ReproSNP/TMP/temporary*")
+    commandline("rm /path/to/TMP/temporary*")
     
     ### FILTER COHORTS
     filter_cohort(
