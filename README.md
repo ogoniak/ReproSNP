@@ -1,6 +1,6 @@
 # ReproSNP
 
-ReproSNP is a tool to enable an easy analysis and exploration of phenotype-associated variants using the UK Biobank database. Users can compare allele and genotype frequencies in two cohorts defined by phenotypes and demographic information. Implemented in R Shiny, ReproSNP utilizes command-line tools for efficient calculations and provides a user-friendly interface for browsing and downloading results.
+ReproSNP is a tool to enable an easy analysis and exploration of phenotype-associated variants using the UK Biobank WES variation data. Users can compare allele and genotype frequencies in two cohorts defined by phenotypes and demographic information. Implemented in R Shiny, ReproSNP utilizes command-line tools for efficient calculations and provides a user-friendly interface for browsing and downloading results.
 
 ## Requirements
 
